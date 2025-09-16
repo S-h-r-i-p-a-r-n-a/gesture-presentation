@@ -44,9 +44,13 @@ pip install -r requirements.txt
 Open your PowerPoint in Slideshow Mode (F5).
 Run the script:
     python gesture_ppt.py
+
 Stand in front of the webcam and use gestures:
+
 Swipe Right Hand → Right → Next Slide
+
 Swipe Left Hand → Left → Previous Slide
+
 Quit anytime by pressing Q.
 
 ---
