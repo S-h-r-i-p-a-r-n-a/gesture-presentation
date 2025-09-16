@@ -56,19 +56,29 @@ Quit anytime by pressing Q.
 ---
 
 🧑‍💻 How It Works
+
 Captures webcam feed using OpenCV.
+
 Tracks hand landmarks with MediaPipe.
+
 Detects index finger movement across screen.
+
 Sends → or ← keystroke with PyAutoGUI.
 
 📝 Future Improvements
+
 Add gesture for exit presentation.
+
 Support multiple users.
+
 Improve accuracy with gesture classification.
 
 👨‍🏫 Use Cases
+
 College / Office presentations
+
 Touchless interaction demos
+
 Cool ML project showcase
 
 ---
