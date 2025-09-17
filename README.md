@@ -26,7 +26,6 @@ With this project, you can swipe your hand left/right in front of the webcam to 
 gesture-presentation/
 
 │── gesture_ppt.py # Main Python script
-
 │── requirements.txt # Dependencies
 
 ---
